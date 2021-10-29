@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "FindX",
+  "name": "Find what you want",
   "icons": [
     {
       "src": "favicon.ico",
